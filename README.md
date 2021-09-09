@@ -1,2 +1,1 @@
-# hmm
-binge starring at github
+In The Process Of Learning Python
